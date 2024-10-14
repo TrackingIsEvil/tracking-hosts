@@ -1,0 +1,24 @@
+0.0.0.0 sentry.io # Main Sentry tracking domain
+0.0.0.0 o0.ingest.sentry.io # Data ingestion for Sentry
+0.0.0.0 crashlyticsreports-pa.googleapis.com # Crashlytics reports
+0.0.0.0 firebaseinstallations.googleapis.com # Firebase installations
+0.0.0.0 app-measurement.com # Firebase analytics domain
+0.0.0.0 firebaselogging-pa.googleapis.com # Firebase logging
+0.0.0.0 firebaseremoteconfig.googleapis.com # Firebase remote config
+0.0.0.0 googleads.g.doubleclick.net # AdMob ads and tracking
+0.0.0.0 pagead2.googlesyndication.com # Google ads syndication
+0.0.0.0 a.applovin.com # AppLovin SDK tracking
+0.0.0.0 config.sparklabs.com # AppLovin SparkLabs
+0.0.0.0 incoming.telemetry.mozilla.org # Mozilla telemetry
+0.0.0.0 crash-stats.mozilla.com # Crash reports
+0.0.0.0 telemetry.mozilla.org # General telemetry
+0.0.0.0 graph.facebook.com # Facebook API for tracking
+0.0.0.0 connect.facebook.net # Facebook Connect for ad tracking
+0.0.0.0 ads.facebook.com # Facebook ads
+0.0.0.0 amazon-adsystem.com # Amazon advertisement system
+0.0.0.0 aax.amazon-adsystem.com # Amazon ad-serving domain
+0.0.0.0 googletagmanager.com # Google Tag Manager
+0.0.0.0 matomo.cloud # Matomo analytics cloud service
+0.0.0.0 stats.matomo.org # Matomo stats and tracking
+0.0.0.0 openmeasurement.net # IAB Open Measurement SDK
+0.0.0.0 in.appcenter.ms # Microsoft App Center crash reporting
